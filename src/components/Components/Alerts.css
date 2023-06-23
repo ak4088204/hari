@@ -1,0 +1,24 @@
+span{
+    margin-left: 250px;
+    margin-top: 300px;
+    padding-bottom: 20px;
+}
+table{
+    margin-left: 250px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+#fun{
+    margin-left: 300px;
+}
+input{
+    width: 50%;
+    border-radius: 0;
+    border: 1px solid black;
+}
+#waste{
+    margin-left: 2.5px;
+}
